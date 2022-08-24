@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Home Hub</title>
+    <link>https://homehub.tech/post/</link>
+    <description>Recent content in Posts on Home Hub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 22 Aug 2020 19:53:51 +0000</lastBuildDate><atom:link href="https://homehub.tech/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to install Jackett and connect with Sonarr on Unraid using Docker</title>
+      <link>https://homehub.tech/how-to-install-jackett-docker-unraid-sonarr/</link>
+      <pubDate>Sat, 22 Aug 2020 19:53:51 +0000</pubDate>
+      
+      <guid>https://homehub.tech/how-to-install-jackett-docker-unraid-sonarr/</guid>
+      <description>My previous post set you up with installing Sonarr on Unraid but that was as far as we got. In this post I want to show you how to set up Jackett and connect to Sonarr so you can connect to torrent trackers that are not oficially suported by Sonarr. This also works for Radarr and has an extremely similar set.
+First thing first, lets install the Jackett Docker container. As always I will be using Linuxserver.</description>
+    </item>
+    
+    <item>
+      <title>How to Install Sonarr on Unraid using Docker</title>
+      <link>https://homehub.tech/how-to-install-sonarr-unraid-docker/</link>
+      <pubDate>Sun, 24 May 2020 17:57:32 +0000</pubDate>
+      
+      <guid>https://homehub.tech/how-to-install-sonarr-unraid-docker/</guid>
+      <description>Installing Sonarr couldn&amp;rsquo;t be any easier when installing using Docker on and Unraid server. Once you have the Community Applications plugin installed you are just a few clicks away from automating your TV show consumption.
+Community Applications Plugin First thing first. You need to install the Community Applications plugin. You can find a guide on how to do that HERE
+Shares Secondly you need to set up your shares. Shares are where Sonarr will be accessing your downloads and putting the TV shows on your Unraid server.</description>
+    </item>
+    
+    <item>
+      <title>How to Install Unraid Community Applications Plugin</title>
+      <link>https://homehub.tech/how-to-install-unraid-community-application/</link>
+      <pubDate>Sun, 24 May 2020 17:16:58 +0000</pubDate>
+      
+      <guid>https://homehub.tech/how-to-install-unraid-community-application/</guid>
+      <description>The Unraid Community Applications plugin is a plugin that gives you access to a wide range of useful plugins and containers all in one place. The Community Applications plugins is great for quick and easy install of other plugins, containers and applications.
+Installation Copy the following LINK and paste it into the Plugins &amp;gt; Install Plugin page of your Unraid install and then press the Install button.
+This will now add an &amp;ldquo;APPS&amp;rdquo; tab where you can access hundreds of community applications.</description>
+    </item>
+    
+    <item>
+      <title>Firefox Spell Check not working?</title>
+      <link>https://homehub.tech/firefox-spell-check-not-working/</link>
+      <pubDate>Wed, 08 Apr 2020 08:33:55 +0000</pubDate>
+      
+      <guid>https://homehub.tech/firefox-spell-check-not-working/</guid>
+      <description>I noticed that while typing out my previous post that Firefox was not automatically spell checking as I was typing. Coming from Chrome which does this automatically I thought this was something that should work out of the box.
+It looks like you need to have a dictionary installed, language pack installed and the option to check spelling ticked.
+Make sure you have spell checking enabled. Menu &amp;gt; Options &amp;gt; search for spell check.</description>
+    </item>
+    
+    <item>
+      <title>Server Build Spec</title>
+      <link>https://homehub.tech/server-build-spec/</link>
+      <pubDate>Tue, 07 Apr 2020 12:31:16 +0000</pubDate>
+      
+      <guid>https://homehub.tech/server-build-spec/</guid>
+      <description>I have been planning for a long time to build a server that is capable of running multiple Docker containers, Plex transcoding and a few Virtual Machines. For the past couple of years I have had a local Xpenology server that runs a version of Synology DSM without the need for Synology hardware. The hardware running this is quite old. DDR2 RAM and a motherboard that only has 2 SATA ports.</description>
+    </item>
+    
+    <item>
+      <title>Installing Emby for Kodi</title>
+      <link>https://homehub.tech/installing-emby-for-kodi/</link>
+      <pubDate>Wed, 23 Jan 2019 11:31:34 +0000</pubDate>
+      
+      <guid>https://homehub.tech/installing-emby-for-kodi/</guid>
+      <description>Kodi is a wonderful media client and I have been using it for many years now. I have been adding more clients to my home recently and have noticed some slight annoyances. The main one is the lack of synchronisation between Kodi clients. This can be solved with a MySQL server keeping track of everything but I don&amp;rsquo;t have anything running locally to do this. Emby and the Kodi addon Emby for Kodi has fixed the synchronisation annoyance.</description>
+    </item>
+    
+    <item>
+      <title>Emby Media Server with Docker</title>
+      <link>https://homehub.tech/emby-media-server-with-docker/</link>
+      <pubDate>Sun, 20 Jan 2019 20:38:34 +0000</pubDate>
+      
+      <guid>https://homehub.tech/emby-media-server-with-docker/</guid>
+      <description>I have been looking into what would be the best solution for a media server. Currently all my media is on as server and I have kodi access this via FTP. Kodi deals with all the meta data, TV show information and Movie information. This works well but when you start to add more Kodi clients nothing stays in sync. You need to manually mark your watched items on the device you haven&amp;rsquo;t watched them on or run up a MySQL server to keep track.</description>
+    </item>
+    
+    <item>
+      <title>Upgrading Ghost 1.xx to Ghost 2.xx using Docker</title>
+      <link>https://homehub.tech/upgrading-ghost-1-xx-to-ghost-2-xx-using-docker/</link>
+      <pubDate>Sat, 19 Jan 2019 19:55:04 +0000</pubDate>
+      
+      <guid>https://homehub.tech/upgrading-ghost-1-xx-to-ghost-2-xx-using-docker/</guid>
+      <description>Checking my Ghost installation recently and I noticed i was way out of date and needed to updated to the latest version of Ghost ( currently 2.11.1 ). Now usually this would have been the case of simply following the upgrade instructions provided by Ghost but because I am running Docker the upgrade process was slightly different.
+Before upgrading to 2.xx you will have to be on version 1.25.6 as this has the latest database changes that are compatible with the latest version.</description>
+    </item>
+    
+    <item>
+      <title>Block Adverts with a Raspberry Pi and Pi-hole</title>
+      <link>https://homehub.tech/block-adverts-with-a-raspberry-pi-and-pi-hole/</link>
+      <pubDate>Thu, 21 Jun 2018 09:19:51 +0000</pubDate>
+      
+      <guid>https://homehub.tech/block-adverts-with-a-raspberry-pi-and-pi-hole/</guid>
+      <description>You can use a Raspberry Pi and some wonderful open source software called Pi-hole to block adverts on your entire home network!
+I have a couple Raspberry Pis, an old model 1 and a newer model 3. The model 3 is being used to run Home Assistant (home automation software) and the other was being used to run Kodi but I now have a Steam Link which I mainly use for Kodi so the Raspberry Pi was gathering dust.</description>
+    </item>
+    
+    <item>
+      <title>Configuring Sonarr and Jackett</title>
+      <link>https://homehub.tech/configuring-sonarr-and-jackett/</link>
+      <pubDate>Thu, 14 Jun 2018 20:13:47 +0000</pubDate>
+      
+      <guid>https://homehub.tech/configuring-sonarr-and-jackett/</guid>
+      <description>In one of my previous blog posts I explained how to install Sonarr, Jackett and RuTorrent using Docker. This is a follow on post from that with some information on how to configure both Sonarr and Jackett.
+I thought this would need a little explaining as I left out some details from the previous post as I thought it is pretty self explanatory but you can never be too helpful. I know it would have helped me a lot if there was a nice blog post or two explaining a few details when i was looking into setting everything up.</description>
+    </item>
+    
+    <item>
+      <title>Automate Movie downloads with Radarr and RuTorrent</title>
+      <link>https://homehub.tech/automate-film-downloads-with-radarr/</link>
+      <pubDate>Wed, 06 Jun 2018 21:27:51 +0000</pubDate>
+      
+      <guid>https://homehub.tech/automate-film-downloads-with-radarr/</guid>
+      <description>Another step on my home automation journey is finding a way to automate movie downloads and streaming. Since I already have Docker, RuTorrent and Jackett installed I can use a fork of Sonarr called Radarr.
+RuTorrent and Jackett If you have come from my previous blog post then you will already have everything installed and ready to go. Jump to the Radarr section below. If not take please take a look and you should find everything you need to get everything up and running - /automate-tv-shows-with-sonarr/</description>
+    </item>
+    
+    <item>
+      <title>Automate TV Shows with Sonarr, RuTorrent and Jackett</title>
+      <link>https://homehub.tech/automate-tv-shows-with-sonarr/</link>
+      <pubDate>Sat, 02 Jun 2018 20:48:28 +0000</pubDate>
+      
+      <guid>https://homehub.tech/automate-tv-shows-with-sonarr/</guid>
+      <description>Automating things in my life is something that I have been trying to do for some time now. Quick and easy automation is what I look for, especially for media. Who doesn&amp;rsquo;t like having the latest episodes at hand to just stream whenever you want? I know I do and Sonarr provides just that.
+We are going to take a quick look at setting up Sonarr, RuTorrent and Jackett with our friend Docker.</description>
+    </item>
+    
+    <item>
+      <title>Docker, Nginx and Let&#39;s Encrypt</title>
+      <link>https://homehub.tech/docker-nginx-and-lets-encrypt/</link>
+      <pubDate>Sat, 02 Jun 2018 19:41:23 +0000</pubDate>
+      
+      <guid>https://homehub.tech/docker-nginx-and-lets-encrypt/</guid>
+      <description>In my previous blog post I explained how quick and easy it was to get a Ghost blog up and running using docker. The next step is to set up a reverse proxy and an SSL certificate. I will be using Nginx as the reverse proxy and Let&amp;rsquo;s Encrypt as my SSL certificate provider. All with the help of Docker!
+The Container There are many Docker containers available, some official and others provided by the community.</description>
+    </item>
+    
+    <item>
+      <title>Installing Ghost on Docker in 2018</title>
+      <link>https://homehub.tech/installing-ghost-on-docker-in-2018/</link>
+      <pubDate>Thu, 31 May 2018 17:34:55 +0000</pubDate>
+      
+      <guid>https://homehub.tech/installing-ghost-on-docker-in-2018/</guid>
+      <description>I have been looking for a way to get a blog up and running in quick and simple manner. No installing and configuring databases. No installing and configuring web servers. Minimal user interaction when installing and setting up.
+This is where Docker comes in to play.
+Docker Minimal user interaction and you are using docker? yes i am. Using Docker will only require me to install Docker and use docker run .</description>
+    </item>
+    
+  </channel>
+</rss>

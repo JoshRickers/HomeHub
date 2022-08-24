@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kodi on Home Hub</title>
+    <link>https://homehub.tech/categories/kodi/</link>
+    <description>Recent content in Kodi on Home Hub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 23 Jan 2019 11:31:34 +0000</lastBuildDate><atom:link href="https://homehub.tech/categories/kodi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installing Emby for Kodi</title>
+      <link>https://homehub.tech/installing-emby-for-kodi/</link>
+      <pubDate>Wed, 23 Jan 2019 11:31:34 +0000</pubDate>
+      
+      <guid>https://homehub.tech/installing-emby-for-kodi/</guid>
+      <description>Kodi is a wonderful media client and I have been using it for many years now. I have been adding more clients to my home recently and have noticed some slight annoyances. The main one is the lack of synchronisation between Kodi clients. This can be solved with a MySQL server keeping track of everything but I don&amp;rsquo;t have anything running locally to do this. Emby and the Kodi addon Emby for Kodi has fixed the synchronisation annoyance.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Install on Home Hub</title>
+    <link>https://homehub.tech/categories/install/</link>
+    <description>Recent content in Install on Home Hub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 22 Aug 2020 19:53:51 +0000</lastBuildDate><atom:link href="https://homehub.tech/categories/install/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to install Jackett and connect with Sonarr on Unraid using Docker</title>
+      <link>https://homehub.tech/how-to-install-jackett-docker-unraid-sonarr/</link>
+      <pubDate>Sat, 22 Aug 2020 19:53:51 +0000</pubDate>
+      
+      <guid>https://homehub.tech/how-to-install-jackett-docker-unraid-sonarr/</guid>
+      <description>My previous post set you up with installing Sonarr on Unraid but that was as far as we got. In this post I want to show you how to set up Jackett and connect to Sonarr so you can connect to torrent trackers that are not oficially suported by Sonarr. This also works for Radarr and has an extremely similar set.
+First thing first, lets install the Jackett Docker container. As always I will be using Linuxserver.</description>
+    </item>
+    
+    <item>
+      <title>How to Install Unraid Community Applications Plugin</title>
+      <link>https://homehub.tech/how-to-install-unraid-community-application/</link>
+      <pubDate>Sun, 24 May 2020 17:16:58 +0000</pubDate>
+      
+      <guid>https://homehub.tech/how-to-install-unraid-community-application/</guid>
+      <description>The Unraid Community Applications plugin is a plugin that gives you access to a wide range of useful plugins and containers all in one place. The Community Applications plugins is great for quick and easy install of other plugins, containers and applications.
+Installation Copy the following LINK and paste it into the Plugins &amp;gt; Install Plugin page of your Unraid install and then press the Install button.
+This will now add an &amp;ldquo;APPS&amp;rdquo; tab where you can access hundreds of community applications.</description>
+    </item>
+    
+    <item>
+      <title>Upgrading Ghost 1.xx to Ghost 2.xx using Docker</title>
+      <link>https://homehub.tech/upgrading-ghost-1-xx-to-ghost-2-xx-using-docker/</link>
+      <pubDate>Sat, 19 Jan 2019 19:55:04 +0000</pubDate>
+      
+      <guid>https://homehub.tech/upgrading-ghost-1-xx-to-ghost-2-xx-using-docker/</guid>
+      <description>Checking my Ghost installation recently and I noticed i was way out of date and needed to updated to the latest version of Ghost ( currently 2.11.1 ). Now usually this would have been the case of simply following the upgrade instructions provided by Ghost but because I am running Docker the upgrade process was slightly different.
+Before upgrading to 2.xx you will have to be on version 1.25.6 as this has the latest database changes that are compatible with the latest version.</description>
+    </item>
+    
+  </channel>
+</rss>

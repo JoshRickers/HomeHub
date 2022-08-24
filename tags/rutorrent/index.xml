@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>RuTorrent on Home Hub</title>
+    <link>https://homehub.tech/tags/rutorrent/</link>
+    <description>Recent content in RuTorrent on Home Hub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 06 Jun 2018 21:27:51 +0000</lastBuildDate><atom:link href="https://homehub.tech/tags/rutorrent/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automate Movie downloads with Radarr and RuTorrent</title>
+      <link>https://homehub.tech/automate-film-downloads-with-radarr/</link>
+      <pubDate>Wed, 06 Jun 2018 21:27:51 +0000</pubDate>
+      
+      <guid>https://homehub.tech/automate-film-downloads-with-radarr/</guid>
+      <description>Another step on my home automation journey is finding a way to automate movie downloads and streaming. Since I already have Docker, RuTorrent and Jackett installed I can use a fork of Sonarr called Radarr.
+RuTorrent and Jackett If you have come from my previous blog post then you will already have everything installed and ready to go. Jump to the Radarr section below. If not take please take a look and you should find everything you need to get everything up and running - /automate-tv-shows-with-sonarr/</description>
+    </item>
+    
+    <item>
+      <title>Automate TV Shows with Sonarr, RuTorrent and Jackett</title>
+      <link>https://homehub.tech/automate-tv-shows-with-sonarr/</link>
+      <pubDate>Sat, 02 Jun 2018 20:48:28 +0000</pubDate>
+      
+      <guid>https://homehub.tech/automate-tv-shows-with-sonarr/</guid>
+      <description>Automating things in my life is something that I have been trying to do for some time now. Quick and easy automation is what I look for, especially for media. Who doesn&amp;rsquo;t like having the latest episodes at hand to just stream whenever you want? I know I do and Sonarr provides just that.
+We are going to take a quick look at setting up Sonarr, RuTorrent and Jackett with our friend Docker.</description>
+    </item>
+    
+  </channel>
+</rss>

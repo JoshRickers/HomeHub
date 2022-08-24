@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Firefox on Home Hub</title>
+    <link>https://homehub.tech/tags/firefox/</link>
+    <description>Recent content in Firefox on Home Hub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 08 Apr 2020 08:33:55 +0000</lastBuildDate><atom:link href="https://homehub.tech/tags/firefox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Firefox Spell Check not working?</title>
+      <link>https://homehub.tech/firefox-spell-check-not-working/</link>
+      <pubDate>Wed, 08 Apr 2020 08:33:55 +0000</pubDate>
+      
+      <guid>https://homehub.tech/firefox-spell-check-not-working/</guid>
+      <description>I noticed that while typing out my previous post that Firefox was not automatically spell checking as I was typing. Coming from Chrome which does this automatically I thought this was something that should work out of the box.
+It looks like you need to have a dictionary installed, language pack installed and the option to check spelling ticked.
+Make sure you have spell checking enabled. Menu &amp;gt; Options &amp;gt; search for spell check.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://homehub.tech/sitemap.xml

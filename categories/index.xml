@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Home Hub</title>
+    <link>https://homehub.tech/categories/</link>
+    <description>Recent content in Categories on Home Hub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 22 Aug 2020 19:53:51 +0000</lastBuildDate><atom:link href="https://homehub.tech/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automation</title>
+      <link>https://homehub.tech/categories/automation/</link>
+      <pubDate>Sat, 22 Aug 2020 19:53:51 +0000</pubDate>
+      
+      <guid>https://homehub.tech/categories/automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>https://homehub.tech/categories/docker/</link>
+      <pubDate>Sat, 22 Aug 2020 19:53:51 +0000</pubDate>
+      
+      <guid>https://homehub.tech/categories/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Install</title>
+      <link>https://homehub.tech/categories/install/</link>
+      <pubDate>Sat, 22 Aug 2020 19:53:51 +0000</pubDate>
+      
+      <guid>https://homehub.tech/categories/install/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jackett</title>
+      <link>https://homehub.tech/categories/jackett/</link>
+      <pubDate>Sat, 22 Aug 2020 19:53:51 +0000</pubDate>
+      
+      <guid>https://homehub.tech/categories/jackett/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sonarr</title>
+      <link>https://homehub.tech/categories/sonarr/</link>
+      <pubDate>Sat, 22 Aug 2020 19:53:51 +0000</pubDate>
+      
+      <guid>https://homehub.tech/categories/sonarr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unraid</title>
+      <link>https://homehub.tech/categories/unraid/</link>
+      <pubDate>Sat, 22 Aug 2020 19:53:51 +0000</pubDate>
+      
+      <guid>https://homehub.tech/categories/unraid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Firefox</title>
+      <link>https://homehub.tech/categories/firefox/</link>
+      <pubDate>Wed, 08 Apr 2020 08:33:55 +0000</pubDate>
+      
+      <guid>https://homehub.tech/categories/firefox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Server</title>
+      <link>https://homehub.tech/categories/server/</link>
+      <pubDate>Tue, 07 Apr 2020 12:31:16 +0000</pubDate>
+      
+      <guid>https://homehub.tech/categories/server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emby</title>
+      <link>https://homehub.tech/categories/emby/</link>
+      <pubDate>Wed, 23 Jan 2019 11:31:34 +0000</pubDate>
+      
+      <guid>https://homehub.tech/categories/emby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kodi</title>
+      <link>https://homehub.tech/categories/kodi/</link>
+      <pubDate>Wed, 23 Jan 2019 11:31:34 +0000</pubDate>
+      
+      <guid>https://homehub.tech/categories/kodi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ghost</title>
+      <link>https://homehub.tech/categories/ghost/</link>
+      <pubDate>Sat, 19 Jan 2019 19:55:04 +0000</pubDate>
+      
+      <guid>https://homehub.tech/categories/ghost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raspberry Pi</title>
+      <link>https://homehub.tech/categories/raspberry-pi/</link>
+      <pubDate>Thu, 21 Jun 2018 09:19:51 +0000</pubDate>
+      
+      <guid>https://homehub.tech/categories/raspberry-pi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radarr</title>
+      <link>https://homehub.tech/categories/radarr/</link>
+      <pubDate>Wed, 06 Jun 2018 21:27:51 +0000</pubDate>
+      
+      <guid>https://homehub.tech/categories/radarr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RuTorrent</title>
+      <link>https://homehub.tech/categories/rutorrent/</link>
+      <pubDate>Wed, 06 Jun 2018 21:27:51 +0000</pubDate>
+      
+      <guid>https://homehub.tech/categories/rutorrent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s Encrypt</title>
+      <link>https://homehub.tech/categories/lets-encrypt/</link>
+      <pubDate>Sat, 02 Jun 2018 19:41:23 +0000</pubDate>
+      
+      <guid>https://homehub.tech/categories/lets-encrypt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nginx</title>
+      <link>https://homehub.tech/categories/nginx/</link>
+      <pubDate>Sat, 02 Jun 2018 19:41:23 +0000</pubDate>
+      
+      <guid>https://homehub.tech/categories/nginx/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Unraid on Home Hub</title>
+    <link>https://homehub.tech/tags/unraid/</link>
+    <description>Recent content in Unraid on Home Hub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 22 Aug 2020 19:53:51 +0000</lastBuildDate><atom:link href="https://homehub.tech/tags/unraid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to install Jackett and connect with Sonarr on Unraid using Docker</title>
+      <link>https://homehub.tech/how-to-install-jackett-docker-unraid-sonarr/</link>
+      <pubDate>Sat, 22 Aug 2020 19:53:51 +0000</pubDate>
+      
+      <guid>https://homehub.tech/how-to-install-jackett-docker-unraid-sonarr/</guid>
+      <description>My previous post set you up with installing Sonarr on Unraid but that was as far as we got. In this post I want to show you how to set up Jackett and connect to Sonarr so you can connect to torrent trackers that are not oficially suported by Sonarr. This also works for Radarr and has an extremely similar set.
+First thing first, lets install the Jackett Docker container. As always I will be using Linuxserver.</description>
+    </item>
+    
+    <item>
+      <title>How to Install Sonarr on Unraid using Docker</title>
+      <link>https://homehub.tech/how-to-install-sonarr-unraid-docker/</link>
+      <pubDate>Sun, 24 May 2020 17:57:32 +0000</pubDate>
+      
+      <guid>https://homehub.tech/how-to-install-sonarr-unraid-docker/</guid>
+      <description>Installing Sonarr couldn&amp;rsquo;t be any easier when installing using Docker on and Unraid server. Once you have the Community Applications plugin installed you are just a few clicks away from automating your TV show consumption.
+Community Applications Plugin First thing first. You need to install the Community Applications plugin. You can find a guide on how to do that HERE
+Shares Secondly you need to set up your shares. Shares are where Sonarr will be accessing your downloads and putting the TV shows on your Unraid server.</description>
+    </item>
+    
+    <item>
+      <title>How to Install Unraid Community Applications Plugin</title>
+      <link>https://homehub.tech/how-to-install-unraid-community-application/</link>
+      <pubDate>Sun, 24 May 2020 17:16:58 +0000</pubDate>
+      
+      <guid>https://homehub.tech/how-to-install-unraid-community-application/</guid>
+      <description>The Unraid Community Applications plugin is a plugin that gives you access to a wide range of useful plugins and containers all in one place. The Community Applications plugins is great for quick and easy install of other plugins, containers and applications.
+Installation Copy the following LINK and paste it into the Plugins &amp;gt; Install Plugin page of your Unraid install and then press the Install button.
+This will now add an &amp;ldquo;APPS&amp;rdquo; tab where you can access hundreds of community applications.</description>
+    </item>
+    
+  </channel>
+</rss>

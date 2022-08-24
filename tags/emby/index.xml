@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Emby on Home Hub</title>
+    <link>https://homehub.tech/tags/emby/</link>
+    <description>Recent content in Emby on Home Hub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 23 Jan 2019 11:31:34 +0000</lastBuildDate><atom:link href="https://homehub.tech/tags/emby/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installing Emby for Kodi</title>
+      <link>https://homehub.tech/installing-emby-for-kodi/</link>
+      <pubDate>Wed, 23 Jan 2019 11:31:34 +0000</pubDate>
+      
+      <guid>https://homehub.tech/installing-emby-for-kodi/</guid>
+      <description>Kodi is a wonderful media client and I have been using it for many years now. I have been adding more clients to my home recently and have noticed some slight annoyances. The main one is the lack of synchronisation between Kodi clients. This can be solved with a MySQL server keeping track of everything but I don&amp;rsquo;t have anything running locally to do this. Emby and the Kodi addon Emby for Kodi has fixed the synchronisation annoyance.</description>
+    </item>
+    
+    <item>
+      <title>Emby Media Server with Docker</title>
+      <link>https://homehub.tech/emby-media-server-with-docker/</link>
+      <pubDate>Sun, 20 Jan 2019 20:38:34 +0000</pubDate>
+      
+      <guid>https://homehub.tech/emby-media-server-with-docker/</guid>
+      <description>I have been looking into what would be the best solution for a media server. Currently all my media is on as server and I have kodi access this via FTP. Kodi deals with all the meta data, TV show information and Movie information. This works well but when you start to add more Kodi clients nothing stays in sync. You need to manually mark your watched items on the device you haven&amp;rsquo;t watched them on or run up a MySQL server to keep track.</description>
+    </item>
+    
+  </channel>
+</rss>
