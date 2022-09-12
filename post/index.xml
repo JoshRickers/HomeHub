@@ -5,7 +5,16 @@
     <link>https://homehub.tech/post/</link>
     <description>Recent content in Posts on Home Hub</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 22 Aug 2020 19:53:51 +0000</lastBuildDate><atom:link href="https://homehub.tech/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Sep 2022 11:49:34 +0100</lastBuildDate><atom:link href="https://homehub.tech/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unraid Themes With Theme.park</title>
+      <link>https://homehub.tech/unraid-themes-with-theme.park/</link>
+      <pubDate>Mon, 12 Sep 2022 11:49:34 +0100</pubDate>
+      
+      <guid>https://homehub.tech/unraid-themes-with-theme.park/</guid>
+      <description>How to install themes on Unraid using Theme.park</description>
+    </item>
+    
     <item>
       <title>How to install Jackett and connect with Sonarr on Unraid using Docker</title>
       <link>https://homehub.tech/how-to-install-jackett-docker-unraid-sonarr/</link>

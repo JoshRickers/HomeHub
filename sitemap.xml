@@ -2,22 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://homehub.tech/categories/</loc>
+    <lastmod>2022-09-12T11:49:34+01:00</lastmod>
+  </url><url>
+    <loc>https://homehub.tech/</loc>
+    <lastmod>2022-09-12T11:49:34+01:00</lastmod>
+  </url><url>
+    <loc>https://homehub.tech/tags/homelab/</loc>
+    <lastmod>2022-09-12T11:49:34+01:00</lastmod>
+  </url><url>
+    <loc>https://homehub.tech/categories/homelab/</loc>
+    <lastmod>2022-09-12T11:49:34+01:00</lastmod>
+  </url><url>
+    <loc>https://homehub.tech/post/</loc>
+    <lastmod>2022-09-12T11:49:34+01:00</lastmod>
+  </url><url>
+    <loc>https://homehub.tech/tags/</loc>
+    <lastmod>2022-09-12T11:49:34+01:00</lastmod>
+  </url><url>
+    <loc>https://homehub.tech/tags/unraid/</loc>
+    <lastmod>2022-09-12T11:49:34+01:00</lastmod>
+  </url><url>
+    <loc>https://homehub.tech/categories/unraid/</loc>
+    <lastmod>2022-09-12T11:49:34+01:00</lastmod>
+  </url><url>
+    <loc>https://homehub.tech/unraid-themes-with-theme.park/</loc>
+    <lastmod>2022-09-12T11:49:34+01:00</lastmod>
+  </url><url>
     <loc>https://homehub.tech/tags/automation/</loc>
     <lastmod>2020-08-22T19:53:51+00:00</lastmod>
   </url><url>
     <loc>https://homehub.tech/categories/automation/</loc>
     <lastmod>2020-08-22T19:53:51+00:00</lastmod>
   </url><url>
-    <loc>https://homehub.tech/categories/</loc>
-    <lastmod>2020-08-22T19:53:51+00:00</lastmod>
-  </url><url>
     <loc>https://homehub.tech/tags/docker/</loc>
     <lastmod>2020-08-22T19:53:51+00:00</lastmod>
   </url><url>
     <loc>https://homehub.tech/categories/docker/</loc>
-    <lastmod>2020-08-22T19:53:51+00:00</lastmod>
-  </url><url>
-    <loc>https://homehub.tech/</loc>
     <lastmod>2020-08-22T19:53:51+00:00</lastmod>
   </url><url>
     <loc>https://homehub.tech/how-to-install-jackett-docker-unraid-sonarr/</loc>
@@ -35,22 +56,10 @@
     <loc>https://homehub.tech/categories/jackett/</loc>
     <lastmod>2020-08-22T19:53:51+00:00</lastmod>
   </url><url>
-    <loc>https://homehub.tech/post/</loc>
-    <lastmod>2020-08-22T19:53:51+00:00</lastmod>
-  </url><url>
     <loc>https://homehub.tech/tags/sonarr/</loc>
     <lastmod>2020-08-22T19:53:51+00:00</lastmod>
   </url><url>
     <loc>https://homehub.tech/categories/sonarr/</loc>
-    <lastmod>2020-08-22T19:53:51+00:00</lastmod>
-  </url><url>
-    <loc>https://homehub.tech/tags/</loc>
-    <lastmod>2020-08-22T19:53:51+00:00</lastmod>
-  </url><url>
-    <loc>https://homehub.tech/tags/unraid/</loc>
-    <lastmod>2020-08-22T19:53:51+00:00</lastmod>
-  </url><url>
-    <loc>https://homehub.tech/categories/unraid/</loc>
     <lastmod>2020-08-22T19:53:51+00:00</lastmod>
   </url><url>
     <loc>https://homehub.tech/how-to-install-sonarr-unraid-docker/</loc>
