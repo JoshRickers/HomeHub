@@ -130,3 +130,5 @@ markup:
     # style: monokai
 permalinks:
   post: /:slug
+taxonomies:
+  tag: "tags"
